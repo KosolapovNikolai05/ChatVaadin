@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/user/Downloads/VaadinChat/VaadinChat/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/user/Downloads/VaadinChat/VaadinChat/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/user/Downloads/VaadinChat/VaadinChat/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\user\\Downloads\\VaadinChat\\VaadinChat\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\user\\Downloads\\VaadinChat\\VaadinChat\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/user/Downloads/VaadinChat/VaadinChat/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/user/Downloads/VaadinChat/VaadinChat/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/user/Downloads/VaadinChat/VaadinChat/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\user\\Downloads\\VaadinChat\\VaadinChat\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
