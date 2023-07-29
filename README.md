@@ -1,1 +1,1 @@
-# ChatVaadin
+Vaadin chat
